@@ -1,4 +1,4 @@
-# Instalación de CLIPS en Windows
+# Instalación de CLIPS en Windows y prueba de código
 
 CLIPS es un entorno de desarrollo para la construcción de sistemas expertos. 
 
@@ -51,7 +51,7 @@ Fred, what is your HDL? 50
 Fred, you have a moderate risk of heart disease.
 ```
 
-# Instalación de Python en Windows
+# Instalación de Python en Windows y prueba de código
 
 Python es un lenguaje de programación de alto nivel, interpretado y de propósito general.
 
