@@ -24,8 +24,8 @@ CLIPS es un entorno de desarrollo para la construcción de sistemas expertos.
 
 1. Abre la línea de comandos (cmd) en tu sistema.
 2. Navega al directorio donde instalaste CLIPS.
-3. Puedes hacerlo utilizando el comando cd, por ejemplo: cd C:\Program Files\SSS\CLIPS 6.4.1\.
-4. Ejecuta CLIPS escribiendo clips en la línea de comandos.
+3. Puedes hacerlo utilizando el comando cd, por ejemplo: ```cd C:\Program Files\SSS\CLIPS 6.4.1\```.
+4. Ejecuta CLIPS escribiendo ```CLIPSDOS.exe``` en la línea de comandos.
 5. Si todo está correcto, deberías ver el entorno de CLIPS iniciando en la línea de comandos.
 
 ## Paso 4: Probar código
