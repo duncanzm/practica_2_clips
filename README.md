@@ -33,7 +33,7 @@ CLIPS es un entorno de desarrollo para la construcción de sistemas expertos.
 1. En el repositorio de este README, descarga el archivo llamado ```cholesterol_clips_code.clp``` en el directorio de preferencia.
 2. En la linea de comando de CLIPS, navega al directorio donde se descargó el archivo. Deberías ver la siguiente salida:
 ```
-CLIPS> (load C:\Downloads\cholesterol_clips_code.clp)
+CLIPS> (load C:\Users\Duncan ZM\Downloads\cholesterol_clips_code.clp)
 %*********
 TRUE
 ```
