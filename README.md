@@ -28,8 +28,28 @@ CLIPS es un entorno de desarrollo para la construcción de sistemas expertos.
 4. Ejecuta CLIPS escribiendo clips en la línea de comandos.
 5. Si todo está correcto, deberías ver el entorno de CLIPS iniciando en la línea de comandos.
 
+## Paso 4: Probar código
 
-
+1. En el repositorio de este README, descarga el archivo llamado ```cholesterol_clips_code.clp``` en el directorio de preferencia.
+2. En la linea de comando de CLIPS, navega al directorio donde se descargó el archivo. Deberías ver la siguiente salida:
+```
+CLIPS> (load C:\Program Files\CLIPS)
+%*********
+TRUE
+```
+3. Corre los siguientes comando para empezar el programa:
+```
+CLIPS> (reset)
+CLIPS> (run)
+```
+4. Te saldrán 4 prompts y los irás llenando. Al final debería mostrar el riesgo de enfermedad de corazón. Aquí un ejemplo:
+```
+What is your name? Fred
+Fred, what is your gender? male
+Fred, what is your total cholesterol? 180
+Fred, what is your HDL? 50
+Fred, you have a moderate risk of heart disease.
+```
 
 # Instalación de Python en Windows
 
