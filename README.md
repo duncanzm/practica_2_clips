@@ -33,7 +33,7 @@ CLIPS es un entorno de desarrollo para la construcción de sistemas expertos.
 1. En el repositorio de este README, descarga el archivo llamado ```cholesterol_clips_code.clp``` en el directorio de preferencia.
 2. En la linea de comando de CLIPS, navega al directorio donde se descargó el archivo. Deberías ver la siguiente salida:
 ```
-CLIPS> (load C:\Program Files\CLIPS)
+CLIPS> (load C:\Downloads\cholesterol_clips_code.clp)
 %*********
 TRUE
 ```
@@ -75,4 +75,27 @@ Python es un lenguaje de programación de alto nivel, interpretado y de propósi
 ## Paso 3: Verificar la Instalación
 
 1. Una vez finalizada la instalación, abre la línea de comandos (cmd).
-2. Ejecuta el siguiente comando para verificar que Python se ha instalado correctamente y está correctamente añadido al PATH: python --version
+2. Ejecuta el siguiente comando para verificar que Python se ha instalado correctamente y está correctamente añadido al PATH:
+```
+python --version
+```
+
+## Paso 4: Probar código
+
+1. En el repositorio de este README, descarga el archivo llamado ```cholesterol_python_code.py`` en el directorio de preferencia.
+2. Abre la linea de comando de Windows (cmd), navega al directorio donde se descargó el archivo.
+```
+cd C:\Downloads\cholesterol_clips_code.clp
+```
+3. Corre el siguiente comando para empezar el programa:
+```
+python3 cholesterol_python_code.py
+```
+4. Te saldrán 4 prompts y los irás llenando. Al final debería mostrar el riesgo de enfermedad de corazón. Aquí un ejemplo:
+```
+What is your name? Fred
+Fred, what is your gender? male
+Fred, what is your total cholesterol? 180
+Fred, what is your HDL? 50
+Fred, you have a moderate risk of heart disease.
+```
