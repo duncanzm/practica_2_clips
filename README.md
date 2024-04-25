@@ -85,11 +85,11 @@ python --version
 1. En el repositorio de este README, descarga el archivo llamado ```cholesterol_python_code.py``` en el directorio de preferencia.
 2. Abre la linea de comando de Windows (cmd), navega al directorio donde se descargó el archivo.
 ```
-cd C:\Downloads\
+cd Downloads
 ```
 3. Corre el siguiente comando para empezar el programa:
 ```
-python3 cholesterol_python_code.py
+python cholesterol_python_code.py
 ```
 4. Te saldrán 4 prompts y los irás llenando. Al final debería mostrar el riesgo de enfermedad de corazón. Aquí un ejemplo:
 ```
