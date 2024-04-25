@@ -10,8 +10,7 @@ CLIPS es un entorno de desarrollo para la construcción de sistemas expertos. La
 ## Paso 1: Descargar CLIPS
 
 1. Visita la página oficial de CLIPS en SourceForge: [CLIPS en SourceForge](https://sourceforge.net/projects/clipsrules/files/CLIPS/6.4.1/).
-2. Elige la versión más reciente de CLIPS para Windows.
-3. Descarga el archivo ejecutable (.msi) apropiado para tu versión de Windows.
+2. Descarga el archivo ejecutable (.msi) apropiado para tu versión de Windows.
 
 ## Paso 2: Instalar CLIPS
 
