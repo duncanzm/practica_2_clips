@@ -14,7 +14,7 @@ CLIPS es un entorno de desarrollo para la construcción de sistemas expertos.
 
 ## Paso 2: Instalar CLIPS
 
-1. Ubica el archivo `.exe` descargado y haz doble clic para iniciar la instalación.
+1. Ubica el archivo `.msi` descargado y haz doble clic para iniciar la instalación.
 2. Sigue las instrucciones del asistente de instalación:
    - Acepta el acuerdo de licencia.
    - Elige la carpeta de destino para la instalación.
