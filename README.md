@@ -28,6 +28,9 @@ CLIPS es un entorno de desarrollo para la construcción de sistemas expertos.
 4. Ejecuta CLIPS escribiendo clips en la línea de comandos.
 5. Si todo está correcto, deberías ver el entorno de CLIPS iniciando en la línea de comandos.
 
+
+
+
 # Instalación de Python en Windows
 
 Python es un lenguaje de programación de alto nivel, interpretado y de propósito general.
